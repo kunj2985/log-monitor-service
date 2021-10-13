@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "log.file.path",
+    "type": "java.lang.String",
+    "description": "A description for 'log.file.path'"
+  },
+  {
+    "name": "duration.threshold",
+    "type": "java.lang.String",
+    "description": "A description for 'duration.threshold'"
+  }
+]}
